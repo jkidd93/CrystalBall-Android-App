@@ -1,0 +1,3 @@
+I have not provided all of the files such as the .mp3 file, pictures used for animation, etc., 
+for this android app. I included the code that primarily runs the program. In this way, I hope to 
+remove unnecessary clutter. 
